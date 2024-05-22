@@ -1,6 +1,8 @@
 # blocnotes
 
-An Electron application with React
+#An Electron application with React and Tailwindcss
+
+![](https://github.com/Christopher1998/BlocNotes/blob/main/blocNotes.jpeg)
 
 ## Recommended IDE Setup
 
